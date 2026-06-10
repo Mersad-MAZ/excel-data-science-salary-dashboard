@@ -19,15 +19,18 @@ The project demonstrates advanced Excel techniques for data analysis, dashboard 
 
 ## Dataset
 
-The analysis is based on a data science salary dataset containing information such as:
+The project uses `` as the source dataset. The data contains information about data science and analytics-related roles, including:
 
 * Job Title
-* Salary
-* Country
+* Salary Information
+* Employee Residence
+* Company Location
 * Employment Type
 * Experience Level
-* Work Setting
-* Platform Information
+* Remote Work Ratio
+* Company Size
+
+The dataset was cleaned, transformed, and analyzed to create the interactive dashboard presented in ``.
 
 ---
 
